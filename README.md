@@ -1,4 +1,4 @@
-# #DA5401 - Data Analytic Lab
+## DA5401 - Data Analytic Lab
 ## About the Course
 
 I am currently pursuing the **Data Analytic Lab (DA5401)** course in my third semester. This course provides extensive hands-on experience in Machine Learning, with a strong emphasis on implementing algorithms and techniques from scratch rather than relying solely on pre-built libraries.
